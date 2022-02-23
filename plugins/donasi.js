@@ -12,6 +12,8 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
 ├🏧 081351047727 (OVO/Dana/GoPay)
 ├📍 https://saweria.co/ilmanhdyt
+├📞 +6281805450249 [XL]
+├🪀 +62881037044211 [Smartfren]
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
