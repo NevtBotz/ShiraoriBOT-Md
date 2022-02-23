@@ -30,7 +30,7 @@ global.APIKeys = { // APIKey Here
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Nevt Botz Multi device'
 global.author = 'Created By Nevt'
-global.email = 'wakabahiiro5@gmail.com'
+global.email = 'krisnaarikrisna@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© NevtBotz MD'
 global.media = 'https://telegra.ph/file/41ae40a398b8ff5ef6414.jpg'
